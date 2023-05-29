@@ -1,0 +1,33 @@
+{
+  "bottomNavBar": {
+    "contents": "الفهرس",
+    "search": "البحث",
+    "separators": "الفواصل"
+  },
+  "contentsScreen": {
+    "lastRead": "آخر ما قرأت",
+    "sura": "سورة",
+    "thePage": "الصفحة",
+    "theSuras": "السور",
+    "theJuzs": "الأجزاء",
+    "theHezbs": "الاحزاب"
+  },
+  "theSurasScreen": {
+    "title": "فهرس القرآن الكريم",
+    "thePage": "الصفحة",
+    "theAyas": "الآيات",
+    "ayas": "آيات",
+    "makyea": "مكية",
+    "madenya": "مدنية"
+  },
+  "separatorsScreen": {
+    "title": "الفواصل",
+    "separator": "فاصل",
+    "thePage": "الصفحة"
+  },
+  "searchScreen": {
+    "title": "البحث",
+    "noResults": "لا يوجد نتائج",
+    "searchForSura": "البحث عن السورة"
+  }
+}
